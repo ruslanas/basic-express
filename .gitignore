@@ -1,0 +1,5 @@
+uploads
+*.pem
+*.csr
+node_modules
+store

@@ -1,0 +1,6 @@
+files:
+  include: 'src/styles/*.scss'
+rules:
+  final-newline:
+    - 0
+    - include: false
