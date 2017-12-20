@@ -3,3 +3,5 @@ uploads
 *.csr
 node_modules
 store
+conf.json
+LOCAL_NOTES.md
